@@ -1,2 +1,9 @@
-/target
-*/.DS_Store
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Maven target directory
+target/
+
+# Ignore IDE files
+.idea/
+*.iml
